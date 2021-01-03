@@ -4,12 +4,7 @@
  c) list only doc files.
  d) list all files
  e) Go to home directory
- 
- 
- 
- 
- 
- 
+
 2) Make a folder MyFolder on Desktop and Do following operations :
   a) Create two Folders folder1 and folder2 inside MyFolder.
   b) Create 2 files as A.txt and B.txt in folder1 using touch command 
