@@ -4,7 +4,12 @@
  c) list only doc files.
  d) list all files
  e) Go to home directory
-
+ 
+ 
+ 
+ 
+ 
+ 
 2) Make a folder MyFolder on Desktop and Do following operations :
   a) Create two Folders folder1 and folder2 inside MyFolder.
   b) Create 2 files as A.txt and B.txt in folder1 using touch command 
@@ -56,4 +61,3 @@
         Percentage of marks where Total marks = 500
 
 11) Write a cronjob which saves the current date in a file at home folder at 6 pm .
-© 2021 GitHub, Inc.
